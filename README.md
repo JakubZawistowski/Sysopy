@@ -1,2 +1,2 @@
 # Sysopy
-zadania z Sysopow
+zadania z Systemow operacyjnych
